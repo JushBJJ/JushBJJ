@@ -2,4 +2,4 @@
 <hr/>
 
 <h1>Contact</h1>
-<p>Discord: Jush#8897</p>
+<p>Discord: Jush#8735</p>
