@@ -3,3 +3,4 @@
 
 <h1>Contact</h1>
 <p>Discord: Jush#8735</p>
+<p>BTC: 1iFrEvhjgW7Q2bCvkidPBQaefykokXXyN</p>
