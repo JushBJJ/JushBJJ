@@ -5,3 +5,4 @@
 <p>Discord: Jush#8735</p>
 <p>Twitter: @Jush___</p>
 <p>BTC: 1iFrEvhjgW7Q2bCvkidPBQaefykokXXyN</p>
+<p>Doge: DFc8eq7m85YisYJ1Zkz1ZqA3Mdi7R4MzoM</p>
