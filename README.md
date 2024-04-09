@@ -2,7 +2,7 @@
 
 Donations: https://www.buymeacoffee.com/Jush
 
-Bitcoin Donations: bc1qy83khrhq5fpczsljwkc66tlvvuh92vd70yqr6ge0nn9ujpgq7yyssafqpq
+Bitcoin Donations: bc1q72ksvgc43eavsanrg2l8z8rss5qxt390ex7vax
 
 Twitter: [@yupiop12](https://twitter.com/yupiop12)
 
